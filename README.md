@@ -1,1 +1,2 @@
-# devops_basic_guntislaicans
+# DevOps repozitorijs
+Guntis Laicāns DevOps repozitorijs pamati iesācējiem
